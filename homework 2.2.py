@@ -25,3 +25,4 @@ for el in source_list:  # Начинаем перебор списка
     changed_list.pop(i)  # Удаляем текущий элемент из финального списка
     changed_list.insert(i + 1, el)  # Засовываем текущий элемент в следующий индекс
 print(changed_list)
+

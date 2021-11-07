@@ -22,3 +22,9 @@ while True:
     begin_rating.append(int(user_input))
     begin_rating.sort(reverse=True)
     print(f"Пользователь ввел число {user_input}. Результат рейтинга: {begin_rating}")
+
+
+
+
+
+

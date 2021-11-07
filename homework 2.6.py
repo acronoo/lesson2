@@ -33,3 +33,5 @@ statistic_dict = {
             dict_product3.get("ед")]
 }
 print(statistic_dict, sep='\n')
+
+

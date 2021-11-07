@@ -7,5 +7,3 @@ test_list = [1, "text", True, 2.2, b'24']
 
 for i in test_list:
     print(type(i))
-
-
